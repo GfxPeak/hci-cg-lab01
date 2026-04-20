@@ -1,8 +1,8 @@
-let items = ['5', '2', '9', '1', '7', '4', '6', '8'];
+let items = ['6', '3', '9', '2', '8', '5', '7', '4'];
 console.log("Ungrouped:", items.join(' '));
 
 // Chunked items
-let chunked = [['5', '2', '9'], ['1', '7', '4'], ['6', '8']];
+let chunked = [['6', '3', '9'], ['2', '8', '5'], ['7', '4']];
 console.log("Chunked:", chunked.map(c => c.join('')).join(' '));
 
 // Explanation output

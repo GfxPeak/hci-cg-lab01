@@ -20,7 +20,7 @@ Observe how human cognitive limits shape interface usability and memory performa
 
 ## 💻 Console Demo
 
-*(Note: The JavaScript implementation is located in a separate file.)*
+*(Note: The implementation is located in a separate file.)*
 
 A script was written to demonstrate the difference in cognitive load between ungrouped and chunked data. When executed in the browser console, the script outputs the following to illustrate why grouping data aids memory:
 
